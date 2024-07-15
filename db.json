@@ -1,0 +1,81 @@
+{
+  "especiais": [
+    {
+      "id": 1,
+      "ativo": false,
+      "ano": 2024,
+      "nome": "Especial da Primavera",
+      "descricao": "",
+      "localEvento": "IC Colina",
+      "periodoEvento": "18 e 22 de Setembro ",
+      "mesReferencia": "Setembro",
+      "datasEvento": "18 e 22",
+      "musicas": [
+        {
+          "numeroCena": 1,
+          "cena": "",
+          "nomeMusica": "THE MAN",
+          "linkMusica": "https://www.dropbox.com/scl/fo/5fkpksf9bmak4ek3j2bjd/AHPtspyHandNXMQXva8cM1I?rlkey=unaiuvftnzbsw11chhsmzi06i&st=vyf8bd67&dl=0",
+          "anotacao": "------",
+          "status": "OK"
+        },
+        {
+          "numeroCena": 2,
+          "cena": "",
+          "nomeMusica": "WE LIFT YOUR NAME",
+          "linkMusica": "https://www.dropbox.com/scl/fo/ksmfi68dxexx2n2etnjnj/AIWmxINBZx3xKfLHylFbFL0?rlkey=v6hlttm08ixtyxnp327m3b4ye&st=7wkooqnd&dl=0",
+          "anotacao": "------",
+          "status": "OK"
+        },
+        {
+          "numeroCena": 3,
+          "cena": "",
+          "nomeMusica": "FAITHFUL TO THE END",
+          "linkMusica": "https://www.dropbox.com/scl/fo/nhzktsgf4etbspkick9vo/AFbF8xJFcoMleIR4hTiL38M?rlkey=pj90zjlfmbxw697j04cvb1fl7&st=tiywcoe0&dl=0",
+          "anotacao": "------",
+          "status": "OK"
+        },
+        {
+          "numeroCena": 4,
+          "cena": "",
+          "nomeMusica": " KING OF GLORY",
+          "linkMusica": "https://www.dropbox.com/scl/fo/vkbw4500zbxlneedj3unw/AIjn926j6h8M1xVzoXARln8?rlkey=q17voo0cqf4nejbosh25lo0lw&st=wmuxwe0k&dl=0",
+          "anotacao": "------",
+          "status": "OK"
+        },
+        {
+          "numeroCena": 5,
+          "cena": "",
+          "nomeMusica": " I'M AMAZED",
+          "linkMusica": "https://www.dropbox.com/scl/fo/nugsugdkp3qb05ze1u4l2/AGHatFnVQF_3oJgROxPBnVE?rlkey=961nrxdyxj9j4445ru95jbve7&st=hv6mnmhx&dl=0",
+          "anotacao": "------",
+          "status": "OK"
+        },
+        {
+          "numeroCena": 6,
+          "cena": "",
+          "nomeMusica": "SPEAK JESUS",
+          "linkMusica": "#",
+          "anotacao": " EM AQUISIÇÃO ",
+          "status": "OK"
+        },
+        {
+          "numeroCena": 7,
+          "cena": "",
+          "nomeMusica": "LET YOUR KINGDOM COME",
+          "linkMusica": "https://www.dropbox.com/scl/fo/fd1oomqrhmyuqdd5nk4a8/AFIBYHZnk_wGnJnpUcev3mU?rlkey=qxu9vmlti6fhhd0vkgk3yal39&st=d8maorh3&dl=0",
+          "anotacao": "------",
+          "status": "OK"
+        },
+        {
+          "numeroCena": 8,
+          "cena": "",
+          "nomeMusica": " JESUS IS",
+          "linkMusica": "https://www.dropbox.com/scl/fo/lj0fg6owfuap0odpz0crk/ALmrZTc_BunC-2MBpfr7UYo?rlkey=9vuc27ti5m4hyetkvc40ks7sg&st=m5i8ybrd&dl=0",
+          "anotacao": "-----",
+          "status": "OK"
+        }
+      ]
+    }
+  ]
+}
