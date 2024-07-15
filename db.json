@@ -2,7 +2,7 @@
   "especiais": [
     {
       "id": 1,
-      "ativo": false,
+      "ativo": true,
       "ano": 2024,
       "nome": "Especial da Primavera",
       "descricao": "",
